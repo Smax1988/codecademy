@@ -8,7 +8,7 @@ h1 {
     color: khaki;
     text-align: center;
     vertical-align: middle;
-    background-image: url('/home/smax/Documents/CODING Training/Project_Dasmotos Arts and Crafts/resources/images/pattern.jpeg');
+    background-image: url('../images/pattern.jpeg"');
 }
 
 #brushes {
